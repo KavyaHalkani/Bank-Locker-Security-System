@@ -1,0 +1,4 @@
+Bank Locker Security System
+
+The main purpose of this project is to provide a dual security to bank lockers. This is a Raspberry pi microcontroller based project which provide secure access only to 
+authorized person via biometric ,password and sending image to user G-mail account.
